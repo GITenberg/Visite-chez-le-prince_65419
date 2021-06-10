@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '53330'
     url: http://www.gutenberg.org/2009/agents/53330
     wikipedia: https://fr.wikipedia.org/wiki/Jean-Gabriel_Daragn%C3%A8s
+covers:
+- cover_type: archival
+  image_path: 65419-h/images/cover.jpg
 creator:
   author:
     agent_name: Giraudoux, Jean
@@ -29,6 +32,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Jean_Giraudoux
     - https://en.wikipedia.org/wiki/Jean_Giraudoux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65419#Visite-chez-le-prince
 gutenberg_issued: '2021-05-23'
 gutenberg_type: Text
 identifiers:
