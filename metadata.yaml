@@ -1,0 +1,45 @@
+_repo: Visite-chez-le-prince_65419
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Daragnès, J.-G. (Jean-Gabriel)
+    aliases:
+    - Daragnès, Gabriel
+    - Daragnès, Jean-Gabriel
+    - Daragnes, J.-G. (Jean-Gabriel)
+    birthdate: 1886
+    deathdate: 1950
+    gutenberg_agent_id: '53330'
+    url: http://www.gutenberg.org/2009/agents/53330
+    wikipedia: https://fr.wikipedia.org/wiki/Jean-Gabriel_Daragn%C3%A8s
+creator:
+  author:
+    agent_name: Giraudoux, Jean
+    aliases:
+    - Giraudoux, Hippolyte Jean
+    - Andouard
+    - Maniere, J.-E.
+    - Cordelier, Maurice
+    - Giradoux, Jean
+    birthdate: 1882
+    deathdate: 1944
+    gutenberg_agent_id: '51078'
+    url: http://www.gutenberg.org/2009/agents/51078
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Jean_Giraudoux
+    - https://en.wikipedia.org/wiki/Jean_Giraudoux
+description: ''
+gutenberg_issued: '2021-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65419'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Visite chez le prince
+url: http://www.gutenberg.org/ebooks/65419
